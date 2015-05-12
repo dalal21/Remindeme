@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/dody"
+        android:layout_width="100dp"
+        android:layout_height="47dp"
+        android:text="@string/s55s"
+        android:textColor="#ffff"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:background="#51C4F6"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/b77b"
+        android:id="@+id/tvSpiner"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="1dp"
+        android:textSize="18dp"
+        android:textColor="#51C4F6" />
+
+    <Spinner
+        android:layout_width="150dp"
+        android:layout_height="47dp"
+        android:id="@+id/spiner"
+        android:layout_gravity="top"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/select2"
+        android:layout_below="@+id/tvSpiner"
+        android:layout_marginBottom="10dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/b66b"
+        android:id="@+id/tvSpinner"
+        android:layout_marginLeft="5dp"
+        android:textSize="18dp"
+        android:textColor="#51C4F6" />
+
+    <Spinner
+        android:layout_width="150dp"
+        android:layout_height="47dp"
+        android:id="@+id/spinner"
+        android:layout_gravity="top"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/select2"
+        android:layout_below="@+id/tvSpiner" />
+
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Remindeme</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_in">sign_in</string>
+    <string name="title_activity_set_of_alerts">set_of_alerts</string>
+
+
+    <string-array name="pills">
+        <item>      </item>
+        <item>Sensipar®</item>
+        <item>Zemplar</item>
+        <item>Hectorol®</item>
+        <item>Rocaltrol®</item>
+        <item>Nephro-Vit</item>
+        <item>Nephroplex</item>
+        <item>Benadryl</item>
+        <item>Atarax®</item>
+        <item>Vistaril®</item>
+        <item>Zyrtec®</item>
+        <item>Iron pills</item>
+        <item>Banadol</item>
+    </string-array>
+
+    <string-array name="patients">
+        <item>      </item>
+        <item>wafa hamed</item>
+        <item>yasser mohamed</item>
+        <item>abdulmajeed ali</item>
+        <item>hana ali</item>
+        <item>dalal suliman</item>
+        <item>abdulrahmen osamah</item>
+        <item>ghada faisal</item>
+        <item>suliman zakarya</item>
+        <item>zyad othman</item>
+        <item>rafeef nawaf</item>
+    </string-array>
+
+    <string name="s55s">Pick a time</string>
+    <string name="b88b">Add pills or treatment</string>
+    <string name="b99b">Add patient</string>
+    <string name="b77b">What medication</string>
+    <string name="b66b">For patient</string>
+
+
+</resources>
